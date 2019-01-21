@@ -83,7 +83,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/ravi-jubl/SpiralLoaderView.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/ravi-jubl/SpiralLoaderView.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
