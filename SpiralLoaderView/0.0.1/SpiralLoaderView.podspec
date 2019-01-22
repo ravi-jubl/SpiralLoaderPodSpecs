@@ -95,7 +95,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "SpiralLoaderView/**/*.{swift}"
-  spec.exclude_files = "Classes/Exclude"
+  spec.exclude_files = "SpiralLoaderView/**/Assets.xcassets"
 
   # spec.public_header_files = "Classes/**/*.h"
 
