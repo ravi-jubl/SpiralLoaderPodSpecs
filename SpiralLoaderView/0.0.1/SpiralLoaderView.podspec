@@ -94,8 +94,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "SpiralLoaderView/**/*.{swift}"
-spec.exclude_files = "SpiralLoaderView/*.{xcassets}"
+  spec.source_files  = "SpiralLoaderView/**/*.swift"
+spec.exclude_files = "SpiralLoaderView/*.xcassets"
 
   # spec.public_header_files = "Classes/**/*.h"
 
